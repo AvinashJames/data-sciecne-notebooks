@@ -1,0 +1,1 @@
+print("I love my wife, whose name is Sweata Singh that too without 's' ")
